@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "影探4K",
+      "name": "影探 • 4K（诊断）",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/%E5%BD%B1%E6%8E%A24K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": []
+}
